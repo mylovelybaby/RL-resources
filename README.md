@@ -10,3 +10,10 @@
 
 ### Online courses:
 - CS 294: Deep Reinforcement Learning, Fall 2017, UC Berkeley http://rll.berkeley.edu/deeprlcourse/
+- UCL Course on RL http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
+### Book
+- Reinforcement Learning:An Introduction http://www.incompleteideas.net/book/bookdraft2017nov5.pdf
+
+### Code
+- Python implementation of Reinforcement Learning: An Introduction https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
